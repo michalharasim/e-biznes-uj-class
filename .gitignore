@@ -1,0 +1,28 @@
+# SBT / Play Framework
+target/
+project/target/
+project/project/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# IntelliJ build files
+out/
+
+# VS Code
+.vscode/
+
+# Dependency caches
+lib_managed/
+src_managed/
