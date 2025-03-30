@@ -11,3 +11,18 @@ SQLite w ramach projektu na Gradle (build.gradle)
 przez CMD oraz gradle
 
 ❌ 5.0 dodać konfigurację docker-compose
+
+Zadanie 2 Należy stworzyć aplikację na frameworku Play w Scali 3
+
+✅ 3.0 Należy stworzyć kontroler do Produktów [Link do kodu](https://github.com/michalharasim/e-biznes-uj-class/tree/main/zad2)
+
+✅ 3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane
+pobierane z listy [Link do kodu](https://github.com/michalharasim/e-biznes-uj-class/tree/main/zad2)
+
+❌ 4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy
+zgodnie z CRUD
+
+❌ 4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać
+skrypt uruchamiający aplikację via ngrok
+
+❌ 5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD
