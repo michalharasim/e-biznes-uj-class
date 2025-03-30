@@ -12,6 +12,8 @@ przez CMD oraz gradle
 
 ❌ 5.0 dodać konfigurację docker-compose
 
+
+
 Zadanie 2 Należy stworzyć aplikację na frameworku Play w Scali 3
 
 ✅ 3.0 Należy stworzyć kontroler do Produktów [Link do kodu](https://github.com/michalharasim/e-biznes-uj-class/tree/main/zad2)
