@@ -30,7 +30,9 @@ skrypt uruchamiający aplikację via ngrok
 ❌ 5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD
 
 
-Nagranie: https://github.com/user-attachments/assets/c6474039-5559-483c-a6c1-1e4d9508f47c
+Nagranie: https://github.com/user-attachments/assets/050ef2ac-15a3-4d29-bf37-e44a3a5fc051
+
+
 
 
 
