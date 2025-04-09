@@ -50,5 +50,7 @@ platformy Discord skierowane do aplikacji (bota)
 ❌ 5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenger,
 Webex
 
-Nagranie: https://github.com/user-attachments/assets/0886562b-dcef-4549-9848-b6d51bc54ad7
+Nagranie: https://github.com/user-attachments/assets/0c60b656-9491-4517-b8c3-86bc87065875
+
+
 
