@@ -52,5 +52,20 @@ Webex
 
 Nagranie: https://github.com/user-attachments/assets/0c60b656-9491-4517-b8c3-86bc87065875
 
+**Zadanie 4 GO**
+
+✅ 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Produktów zgodny z CRUD [Link do kodu](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad4/routes/routes.go)
+
+✅ 3.5 Należy stworzyć model Produktów wykorzystując gorm oraz wykorzystać model do obsługi produktów (CRUD) w kontrolerze (zamiast listy) [Link do kodu](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad4/models/product.go)
+
+❌ 4.0 Należy dodać model Koszyka oraz dodać odpowiedni endpoint
+
+❌ 4.5 Należy stworzyć model kategorii i dodać relację między kategorią, a produktem
+
+❌ 5.0 pogrupować zapytania w gorm’owe scope'y
+
+
+https://github.com/user-attachments/assets/5adf6d0f-d98a-4ec7-a123-83a8c3a6119b
+
 
 
