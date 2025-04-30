@@ -68,4 +68,24 @@ Nagranie: https://github.com/user-attachments/assets/0c60b656-9491-4517-b8c3-86b
 https://github.com/user-attachments/assets/5adf6d0f-d98a-4ec7-a123-83a8c3a6119b
 
 
+**Zadanie 5 React**
+
+✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
+Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
+Produktach powinniśmy pobierać dane o produktach z aplikacji
+serwerowej; [Link do kodu]([https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad4/routes/routes.go](https://github.com/michalharasim/e-biznes-uj-class/tree/main/zad5))
+
+❌ 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing
+
+❌ 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za
+pomocą React hooks
+
+❌ 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz
+kliencką na dockerze via docker-compose
+
+❌ 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS
+
+https://github.com/user-attachments/assets/e6d32505-e2fd-4dea-a212-a1568127aac9
+
+
 
