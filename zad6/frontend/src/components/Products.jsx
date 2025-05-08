@@ -130,7 +130,6 @@ const Products = () => {
             <Input value={blikCode} onChange={(e) => setBlikCode(e.target.value)} />
             {!isBlikValid && <FormErrorMessage color="red">BLIK Code must be 6 digits.</FormErrorMessage>}
           </FormControl>
-
           <Button backgroundColor="orange.400" color="white" size="md" _hover={{ bg: "orange.600" }} onClick={handlePayment} isDisabled={!isFormValid}>
             Buy
           </Button>
