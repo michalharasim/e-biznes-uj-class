@@ -87,7 +87,7 @@ kliencką na dockerze via docker-compose
 
 https://github.com/user-attachments/assets/e6d32505-e2fd-4dea-a212-a1568127aac9
 
-**Zadanie 5 React**
+**Zadanie 6 Testy**
 
 ✅ 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
 (Kotlin, Python, Java, JS, Go, Scala) [Link do kodu](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad6/frontend/src/tests/test_all.py)
