@@ -103,7 +103,6 @@ def test_blik_code(driver):
     error_message = driver.find_element(By.CLASS_NAME, "chakra-form__error-message")
     assert error_message, "No error message with 5 digit BLIK code"
     time.sleep(0.5)
-
     blik_input[3].send_keys("1")
     time.sleep(0.5)
     error_messages = driver.find_elements(By.CLASS_NAME, "chakra-form__error-message")
