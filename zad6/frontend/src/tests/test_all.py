@@ -45,7 +45,6 @@ def test_remove_from_cart(driver):
     cart_items = driver.find_elements(By.CLASS_NAME, "css-1lekzkb")
     assert len(cart_items) == 2, "There should be 2 items in the cart"
 
-
 def test_invalid_address(driver):
     time.sleep(0.5)
     address_input = driver.find_elements(By.CSS_SELECTOR, "input")
