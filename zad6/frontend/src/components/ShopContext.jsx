@@ -25,7 +25,6 @@ export const ShopProvider = ({ children }) => {
   };
 
   const clearCart = () => setCart([]);
-
   return (
     <ShopContext.Provider
       value={{
