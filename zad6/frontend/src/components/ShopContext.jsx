@@ -1,4 +1,5 @@
-import React, { createContext, useContext, useState, useEffect } from "react";
+import React, { createContext, useContext, useState, useEffect, useMemo } from "react";
+import PropTypes from "prop-types";
 
 const ShopContext = createContext();
 
@@ -8,7 +9,7 @@ export const ShopProvider = ({ children }) => {
   const [products, setProducts] = useState([]);
 
   const [cart, setCart] = useState(() => {
-    const storedCart= localStorage.getItem("cart");
+    const storedCart = localStorage.getItem("cart");
     return storedCart ? JSON.parse(storedCart) : [];
   });
 
@@ -25,18 +26,22 @@ export const ShopProvider = ({ children }) => {
   };
 
   const clearCart = () => setCart([]);
-  return (
-    <ShopContext.Provider
-      value={{
-        products,
-        setProducts,
-        cart,
-        addToCart,
-        clearCart,
-        removeFromCart,
-      }}
-    >
-      {children}
-    </ShopContext.Provider>
+
+  const value = useMemo(
+    () => ({
+      products,
+      setProducts,
+      cart,
+      addToCart,
+      clearCart,
+      removeFromCart,
+    }),
+    [products, cart]
   );
+
+  return <ShopContext.Provider value={value}>{children}</ShopContext.Provider>;
+};
+
+ShopProvider.propTypes = {
+  children: PropTypes.node.isRequired,
 };
