@@ -87,5 +87,24 @@ kliencką na dockerze via docker-compose
 
 https://github.com/user-attachments/assets/e6d32505-e2fd-4dea-a212-a1568127aac9
 
+**Zadanie 5 React**
+
+✅ 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
+(Kotlin, Python, Java, JS, Go, Scala) [Link do kodu](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad6/frontend/src/tests/test_all.py)
+
+❌ 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50
+asercji
+
+❌ 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
+projektu z minimum 50 asercjami
+
+❌ 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z
+minimum jednym scenariuszem negatywnym per endpoint
+
+❌ 5.0 Należy uruchomić testy funkcjonalne na Browserstacku
+
+https://github.com/user-attachments/assets/bd63329d-c742-446a-b961-42eb427de91b
+
+
 
 
