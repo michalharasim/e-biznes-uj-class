@@ -10,9 +10,9 @@ import {
   CloseButton,
   VStack,
   Input,
+  Separator,
 } from "@chakra-ui/react";
 import { LuShoppingCart } from "react-icons/lu";
-import { Separator } from "@chakra-ui/react";
 import {
   FormControl,
   FormErrorMessage,
