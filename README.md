@@ -107,6 +107,8 @@ https://github.com/user-attachments/assets/bd63329d-c742-446a-b961-42eb427de91b
 
 **Zadanie 6 Sonar**
 
+Uwaga: Zadanie zostało wykonane dla przedmiotu E-biznes: [LINK](https://github.com/michalharasim/e-biznes-uj-class/tree/main/zad6)
+
 ✅ 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita. [Link do commita](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad6/pre-commit)
 
 ✅ 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej) Brak zmian
