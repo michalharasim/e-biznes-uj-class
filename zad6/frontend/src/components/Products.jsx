@@ -81,7 +81,6 @@ const Products = () => {
         )}
       </Box>
 
-      {/* Koszyk */}
       <Box bg="white" p={6} borderRadius="xl" boxShadow="lg" width="80%" maxW="1200px">
         <Text fontSize="2xl" mb={4} fontWeight="bold" color="orange.600">Your Cart</Text>
         {cart.length === 0 ? (
