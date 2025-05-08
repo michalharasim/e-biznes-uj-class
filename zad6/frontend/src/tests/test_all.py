@@ -93,7 +93,6 @@ def test_email_with_dot_end(driver):
     error_messages = driver.find_elements(By.CLASS_NAME, "chakra-form__error-message")
     assert error_messages[2].text != "Phone must be 9 digits.", "Error message for email"
 
-
 def test_blik_code(driver):
     time.sleep(0.5)
     blik_input = driver.find_elements(By.CSS_SELECTOR, "input")
