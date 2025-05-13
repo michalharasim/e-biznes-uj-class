@@ -105,7 +105,7 @@ minimum jednym scenariuszem negatywnym per endpoint
 
 https://github.com/user-attachments/assets/bd63329d-c742-446a-b961-42eb427de91b
 
-**Zadanie 6 Sonar**
+**Zadanie 7 Sonar**
 
 Uwaga: Zadanie zostało wykonane dla przedmiotu E-biznes: [LINK](https://github.com/michalharasim/e-biznes-uj-class/tree/main/zad6)
 
