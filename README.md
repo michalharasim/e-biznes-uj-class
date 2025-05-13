@@ -141,3 +141,17 @@ FRONTEND
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_frontend&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ebiznes_frontend)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ebiznes_frontend&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ebiznes_frontend)
 
+**Zadanie 8 Auth**
+
+✅ 3.0 logowanie przez aplikację serwerową (bez Oauth2) [Link do backendu](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad8/backend/server.go)
+
+✅ 3.5 rejestracja przez aplikację serwerową (bez Oauth2) [Link do frontendu](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad8/frontend/src/components/AuthForm.jsx)
+
+❌ 4.0 logowanie via Google OAuth2
+
+❌ 4.5 logowanie via Facebook lub Github OAuth2
+
+❌ 5.0 zapisywanie danych logowania OAuth2 po stronie serwera
+
+https://github.com/user-attachments/assets/d0d7fb92-efe8-4a8b-ab8a-9401211be2b3
+
