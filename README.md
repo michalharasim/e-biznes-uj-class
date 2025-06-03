@@ -168,3 +168,6 @@ https://github.com/user-attachments/assets/d0d7fb92-efe8-4a8b-ab8a-9401211be2b3
 
 ❌ 5.0 filtrowanie odpowiedzi po sentymencie
 
+https://github.com/user-attachments/assets/0f394fbe-e7f5-41f1-8385-42b53dc799cd
+
+
