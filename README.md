@@ -155,3 +155,16 @@ FRONTEND
 
 https://github.com/user-attachments/assets/d0d7fb92-efe8-4a8b-ab8a-9401211be2b3
 
+
+**Zadanie 9 ChatGPT bot**
+
+✅ 3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z chatGPT do usługi chat [Link do commita](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad9/chat.py)
+
+❌ 3.5 należy stworzyć interfejs frontowy dla użytkownika, który komunikuje się z serwisem; odpowiedzi powinny być wysyałen do frontendowego interfejsu
+
+❌ 4.0 stworzyć listę 5 różnych otwarć oraz zamknięć rozmowy
+
+❌ 4.5 filtrowanie po zagadnieniach związanych ze sklepem (np. ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT
+
+❌ 5.0 filtrowanie odpowiedzi po sentymencie
+
