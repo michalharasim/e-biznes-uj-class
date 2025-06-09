@@ -170,4 +170,24 @@ https://github.com/user-attachments/assets/d0d7fb92-efe8-4a8b-ab8a-9401211be2b3
 
 https://github.com/user-attachments/assets/0f394fbe-e7f5-41f1-8385-42b53dc799cd
 
+**Zadanie 10 Chmura/CI**
 
+Zadanie zrobione na podstawie serwisów z zadania 5.
+
+Adres do frontendu: https://frontappnew.azurewebsites.net/
+
+Adres do backendu: https://zad10backendapp-e4eebcg9d4drc3hg.westeurope-01.azurewebsites.net/products
+
+✅ 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
+dockerze [Link do Dockerfile 1](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad10/frontend/Dockerfile)
+[Link do Dockerfile 2](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad10/backend/Dockerfile)
+
+❌ 3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania aplikacji (np. via fatjar)
+
+❌ 4.0 Dodać notyfikację mailową o zbudowaniu aplikacji
+
+❌ 4.5 Dodać krok z deploymentem aplikacji serwerowej oraz klienckiej na chmurę
+
+❌ 5.0 Dodać uruchomienie regresyjnych testów automatycznych (funkcjonalnych) jako krok w Actions
+
+https://github.com/user-attachments/assets/402c331a-ca6b-43d0-9d5d-e82b25f978fd
