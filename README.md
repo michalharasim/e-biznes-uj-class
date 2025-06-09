@@ -180,6 +180,7 @@ Adres do backendu: https://zad10backendapp-e4eebcg9d4drc3hg.westeurope-01.azurew
 
 ✅ 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
 dockerze [Link do Dockerfile 1](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad10/frontend/Dockerfile)
+
 [Link do Dockerfile 2](https://github.com/michalharasim/e-biznes-uj-class/blob/main/zad10/backend/Dockerfile)
 
 ❌ 3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania aplikacji (np. via fatjar)
